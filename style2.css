@@ -1,0 +1,20 @@
+
+.h1{
+    font-size: large;
+    color: #344e15; ;
+    text-align: center;
+}
+.border{
+    border:solid;
+    background:  linear-gradient(red,pink);
+    
+}
+.header{
+    border: black;
+    text-align: center;
+    background:rgb(2, 29, 2);
+    color: olive;
+}
+.table{
+    padding-left: 40%;
+}
